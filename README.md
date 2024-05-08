@@ -1,1 +1,1 @@
-<img src="./img/rasm.png">
+<img src="./scss-bem-start-main/img/rasm.png">
